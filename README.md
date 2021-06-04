@@ -17,7 +17,7 @@ Here are some ideas to get you started:
         - [ ] Object detection drone. 
 * 🌱 I’m currently learning Quantum Computing from _Qiskit Summer School_
 * :octocat: I’m looking to collaborate on __OpenColab.co__ {Web Dev}
-* 🤔 I’m looking for help with ⏲️ Managing Time 😅 
+* 🤔 I’m looking for help with ⏲️ Time Management 😅 
 * 📫 How to reach me: [shivakshi.main](https://mmm.page/shivakshi.main) {_Temperory page_}
 * 😄 Pronouns: She/Her
 * ⚡ Fun fact: I want to work on Rocket propulsion system 🚀
