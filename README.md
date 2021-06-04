@@ -2,7 +2,7 @@
 <img src="Shivakshi Header.png" title="Me" align="center">
 
 ### I am Shivakshi. Pronounced as She - Yak with V - She 😄
-I'm a Mechanical Engineering Undergrad from India, interested in creating things. I like aeronautics & aero-modelling, UX designing, FrontEnd Dev, A little bit of competitive coding (C++) & Quantum computing. I am always curious to learn something new and open to challenging opportunities. My aim to blur the line between mechanical and software fields so that one person has the power to design, develop and program whatever they can imagine (But NOT Ultron 🤖).
+I'm a Mechanical Engineering Undergrad from India, interested in creating things. I like aeronautics & aero-modelling, UX designing, FrontEnd dev, a little bit of competitive coding (C++) & Quantum computing. I am always curious to learn something new and open to challenging opportunities. My aim to blur the line between mechanical and software fields so that one person has the power to design, develop and program whatever they can imagine (But NOT Ultron 🤖).
 
 Here are some ideas to get you started:
 
