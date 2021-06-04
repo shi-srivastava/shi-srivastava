@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 * 🤔 I’m looking for help with ⏲️ Time Management 😅 
 * 📫 How to reach me: [shivakshi.main](https://mmm.page/shivakshi.main) {_Temperory page_}
 * 📰 My blog: [blog.shivakshi.tech](https://blog.shivakshi.tech/)
-* 😄 Pronouns: She/Her
+* 🙂 Pronouns: She/Her
 * ⚡ Fun fact: I want to work on Rocket propulsion system 🚀
 
 #### Github Stats
