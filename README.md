@@ -9,7 +9,7 @@ Here are some ideas to get you started:
     * Dev related:   
         - [x] [OpenColab.co](http://opencolab.co/).
         - [x] Redesigning my personal website + blog.
-        - [x] Daily Small projects.
+        - [x] Weekly Small projects.
         - [ ] [Julia](https://julialang.org/) Practice.
     * Mechanical:
         - [x] Designing a fixed wing RC aircraft.
