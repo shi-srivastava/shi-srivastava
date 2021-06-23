@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 
 #### Github Stats 📈
 <img src="https://github-readme-stats.vercel.app/api?username=shi-srivastava&show_icons=true&theme=vue-dark&count_private=true&hide_border=true" alt="github stats" width="50%" align="left"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shi-srivastava&show_icons=true&theme=vue-dark&count_private=true&hide_border=true" alt="github stats" width="50%" align="left"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shi-srivastava&show_icons=true&theme=vue-dark&count_private=true&hide_border=true" alt="github stats" width="50%" align="right"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shi-srivastava&show_icons=true&theme=vue-dark&count_private=true&hide_border=true&layout=compact" width="50%" align="left"/>
