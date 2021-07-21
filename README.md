@@ -14,7 +14,7 @@ Here are some ideas to get you started:
     * Mechanical:
         - [x] Designing a fixed wing RC aircraft.
         - [ ] Object detection drone. 
-* 🌱 I’m currently learning Quantum Computing from _Qiskit Summer School_
+* 🌱 I’m currently learning Quantum Machine Learning from _IBM's Qiskit Summer School_
 * :octocat: I’m looking to collaborate on __OpenColab.co__ {Web Dev}
 * 🤔 I’m looking for help with ⏲️ Time Management 😅 
 * 📫 How to reach me: [shivakshi.main](https://mmm.page/shivakshi.main) {_Temperory page_}
