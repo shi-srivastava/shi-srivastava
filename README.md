@@ -4,7 +4,7 @@
 ### I am Shivakshi. Pronounced as She - Yak with V - She 😄
 I'm a Mechanical Engineering Undergrad from India, interested in creating things. I like aeronautics & aero-modelling, UX designing, FrontEnd dev, Competitive coding (C++) & a little bit of quantum computing. I am always curious to learn something new and open to challenging opportunities. My aim to blur the line between mechanical and software fields so that one person has the power to design, develop and program whatever they can imagine (But NOT Ultron 🤖).
 
-Here are some ideas to get you started:
+
 * 🔭 I’m currently working on 
     * Dev related:   
         - [x] [OpenColab.co](http://opencolab.co/).
