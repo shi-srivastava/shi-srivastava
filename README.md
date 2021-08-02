@@ -17,10 +17,10 @@ I'm a Mechanical Engineering Undergrad from India, interested in creating things
 * 🌱 I’m currently learning Quantum Machine Learning from _IBM's Qiskit Summer School_
 * :octocat: I’m looking to collaborate on __OpenColab.co__ {Web Dev}
 * 🤔 I’m looking for help with ⏲️ Time Management 😅 
-* 📫 How to reach me: [shivakshi.main](https://mmm.page/shivakshi.main) {_Temperory page_}
+* 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shivakshi-srivastava/) {_Temporarily_}
 * 📰 My blog: [blog.shivakshi.tech](https://blog.shivakshi.tech/)
 * 🙂 Pronouns: She/Her
-* ⚡ Fun fact: I want to work on Rocket propulsion system 🚀
+* ⚡ Fun fact: I want to work on Quantum Fluid Dynamics 🤽‍♀️
 
 #### Github Stats 📈
 <img src="https://github-readme-stats.vercel.app/api?username=shi-srivastava&show_icons=true&theme=vue-dark&count_private=true&hide_border=true" alt="github stats" width="50%" align="left"/>
