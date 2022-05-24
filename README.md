@@ -33,7 +33,7 @@ I'm a Mechanical Engineering Undergrad from India, interested in creating things
    </a>  
   </div>
   
-* 📰 My blog: [blog.shivakshi.tech](https://blog.shivakshi.tech/)
+* 📰 My LinkdIn: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="shivakshi-srivastava" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/shivakshi-srivastava?trk=profile-badge">Shivakshi Sheel Srivastava</a></div>
 * 🙂 Pronouns: She/Her
 * ⚡ Fun fact: I want to work on Quantum Fluid Dynamics 🤽‍♀️
 
