@@ -36,7 +36,8 @@ No, I’m not building Ultron. Yet. 🤖
    </a>  
   </div>
   
-* 📰 My LinkdIn: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="shivakshi-srivastava" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/shivakshi-srivastava?trk=profile-badge">Shivakshi Sheel Srivastava</a></div>
+* 📰 My LinkdIn: <a href="https://in.linkedin.com/in/shivakshi-srivastava?trk=profile-badge">shivakshi-srivastava</a>
+* 🔗 My Website: <a href="https://shivakshi.co.in/">shivakshi.co.in</a>
 * 🙂 Pronouns: She/Her
 * ⚡ Fun fact: I want to work on Quantum Fluid Dynamics 🤽‍♀️
 
