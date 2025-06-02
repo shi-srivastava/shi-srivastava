@@ -11,7 +11,7 @@ No, I’m not building Ultron. Yet. 🤖
 
 * 🔭 I’m currently working on 
     * Dev related:   
-        - [x] [OpenColab.co](https://github.com/shi-srivastava/OpenColab).
+        - [x] [Shivakshi.co.in](https://shivakshi.co.in/).
         - [x] Weekly Small projects.
         - [ ] [Julia](https://julialang.org/) Practice.
     * Mechanical:
