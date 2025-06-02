@@ -2,20 +2,23 @@
 <img src="Shivakshi Header.png" title="Me" align="center">
 
 ### I am Shivakshi. Pronounced as She - Yak with V - She 😄
-I'm a Mechanical Engineering Undergrad from India, interested in creating things. I like aeronautics & aero-modelling, UI-UX designing, FrontEnd dev, DSA Problem Solving (C++) & a little bit of quantum computing. I am always curious to learn something new and open to challenging opportunities. My goal is to blur the line between mechanical and software fields so that one person can design, develop, and programme anything they can think of (but NOT Ultron 🤖).
+I build heavy machines from scratch, code things for fun, and now sit in board meetings pretending not to geek out. 🛠️💻📊
+Mechanical Engineering grad with a habit of mixing torque wrenches with tech stacks. From repairing engines on the shop floor to designing factory layouts, training DNN on Tensorflow to discussing global KPIs with Execs. I get my hands dirty and my brain buzzing -- I’ve done a little bit of everything. I love to blur the line between hardware and software like it’s my art form.
+Aeromodelling? Done it. Hackathons? Been there. Quantum computing? Dabbled. I'm Curious; Confident; Covered in grease, occasionally; and obsessed with making things work--whether it’s a machine, a webpage, or a team.
+
+No, I’m not building Ultron. Yet. 🤖
 
 
 * 🔭 I’m currently working on 
     * Dev related:   
         - [x] [OpenColab.co](https://github.com/shi-srivastava/OpenColab).
-        - [x] Redesigning my personal website + blog.
         - [x] Weekly Small projects.
         - [ ] [Julia](https://julialang.org/) Practice.
     * Mechanical:
         - [x] Designing a fixed wing RC aircraft.
+        - [x] AI Implementaton in R&D
         - [ ] Object detection drone. 
-* 🌱 I’m currently learning Quantum Machine Learning from _IBM's Qiskit Summer School_
-* :octocat: I’m looking to collaborate on __OpenColab.co__ {Web Dev}
+* 🌱 I’m currently exploring opportunities to learn Hardware Software integration & People management
 * 🤔 I’m looking for help with ⏲️ Time Management 😅 
 * 📫 How to reach me:
 * <div>
@@ -25,10 +28,10 @@ I'm a Mechanical Engineering Undergrad from India, interested in creating things
    <a href="https://www.linkedin.com/in/shivakshi-srivastava/" target="_blank">
       <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
    </a>
-   <a href="https://www.polywork.com/shivakshi" target="_blank">
-      <img src=https://img.shields.io/badge/polywork-%9CE1CE.svg?&style=for-the-badge&logo=polywork&logoColor=black alt=linkedin style="margin-bottom: 5px;" />
+   <a href="https://shivakshi.co.in/" target="_blank">
+      <img src=https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white?&style=for-the-badge&logo=polywork&logoColor=black alt=linkedin style="margin-bottom: 5px;" />
    </a>
-   <a href="mailto:shivakshisheel.srivastava@gmail.com" target="_blank">
+   <a href="mailto:shivakshis.srivastava@gmail.com" target="_blank">
       <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=mail style="margin-bottom: 5px;" />
    </a>  
   </div>
